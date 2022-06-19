@@ -1,5 +1,4 @@
-#atul240202
-#My profile readme
+
 <h1 align="center">Hi 👋, I'm Atul Jha</h1>
 <h3 align="center">A passionate frontend developer from India & a Innovator with 7+ filed Patents</h3>
 
