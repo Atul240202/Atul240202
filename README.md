@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/atuljha24/**
 
-- 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1RpoDDjJZMgrqRRNFGkGCeoh_ICR1No8n/view?usp=sharing)
+- 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1_7gIu-wjsiez98_oRjwX2j_Ph0BZCURp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
