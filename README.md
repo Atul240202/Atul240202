@@ -39,13 +39,10 @@ Software Engineer | Product-Focused Developer | 7+ Patents Filed 🚀
 ### 🌐 Portfolio & Work
 
 * 💻 **Portfolio**
-  👉 http://atuls-portfolio.vercel.app/
+  👉 https://www.atuljha.in
 
 * 👨‍💻 **Projects**
   👉 https://github.com/atul240202
-
-* 📄 **Resume**
-  👉 https://drive.google.com/file/d/1_7gIu-wjsiez98_oRjwX2j_Ph0BZCURp/view
 
 ---
 
